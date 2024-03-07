@@ -17,7 +17,7 @@ Replace <base_ip_address> with the desired base IP address (e.g., 192.168.1).
 
 ## Requirements
 
-	Bash (Bourne Again Shell)
+Bash (Bourne Again Shell)
 
 ## Installation
 clone this repository:
@@ -35,7 +35,7 @@ chmod +x ipsweep.sh
 ## Usage Examples
 Sweep IP addresses in subnet 192.168.1.0/24:
 ```bash
-    ./ipsweep.sh 192.168.1
+./ipsweep.sh 192.168.1
 ```
 
 ## Contributing
